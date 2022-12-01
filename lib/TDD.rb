@@ -70,7 +70,7 @@ class TowersOfHanoi
     elsif num1 == 3
       cur = arr3
     end
-
+#test
     if num2 == 1
       nex = arr1
     elsif num2 == 2
